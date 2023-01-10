@@ -30,4 +30,4 @@ javascript: if (window.location.hostname == "edpuzzle.com") {var r = new XMLHttp
 ## License & Credits
 ⚠ THIS IS NOT THE ORIGINAL GIT. GO [HERE](https://github.com/ading2210/edpuzzle-answers) TO SUPPORT THE ORIGINAL CREATOR ⚠
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU - GPL](https://choosealicense.com/licenses/gpl-3.0/)
