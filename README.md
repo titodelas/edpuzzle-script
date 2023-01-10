@@ -27,5 +27,6 @@ javascript: if (window.location.hostname == "edpuzzle.com") {var r = new XMLHttp
 3. Click on the bookmarklet to run the script.
 4. If it doesn't work, make sure you allow popups from edpuzzle.com, then try again.
 
-## License
+## License & Credits
+⚠ THIS IS NOT THE ORIGINAL GIT. GO [HERE](https://github.com/ading2210/edpuzzle-answers) TO SUPPORT THE ORIGINAL CREATOR ⚠
 [MIT](https://choosealicense.com/licenses/mit/)
